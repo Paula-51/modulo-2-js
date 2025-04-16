@@ -39,7 +39,7 @@ if (userAvatar==="") {
     img.src=DEFAULT_AVATAR;
 } */
 
-    const perro = 3;
+  /*   const perro = 3;
     let humano; // Se declara fuera de los bloques
     
     if (perro === 1) {
@@ -50,4 +50,6 @@ if (userAvatar==="") {
         humano = perro * 5;
     }
     
-    console.log(humano);
+    console.log(humano); */
+
+  
