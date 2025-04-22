@@ -36,7 +36,7 @@ function incrementarContador () {
 
 // boton.addEventListener ("click", incrementarContador);
 
-const boton = document.querySelector(".js-btn");
+const boton = document.querySelector(".js_btn");
 const numero = document.querySelector(".js-valor");
 let contador = 0; 
 numero.innerHTML = contador;
