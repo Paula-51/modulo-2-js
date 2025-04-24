@@ -32,7 +32,7 @@ numero.innerHTML = contador;
 function incrementarContador() {
   contador += 2; // Incrementamos el contador por 2
   numero.innerHTML = contador; 
-  console.log ("El boton funciona")
+  console.log ("El boton funciona");
   // Actualizamos el contenido de 'n' con el nuevo valor del contador
 }
 boton.addEventListener("click", incrementarContador);
