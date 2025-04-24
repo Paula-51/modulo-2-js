@@ -23,19 +23,6 @@ texto.innerHTML = calcularCaja(true,750,25,2); */
 
 //ejercicio 2
 
-/* const boton = document.querySelector(".js-btn");
-let n = document.querySelector(".js-valor");
-n = 0;
-
-function incrementarContador () {
-    let n = document.querySelector(".js-valor");
-    n = 0;
-    return n.innerHTML += 2;
-   
-} */
-
-// boton.addEventListener ("click", incrementarContador);
-
 const boton = document.querySelector(".js_btn");
 const numero = document.querySelector(".js-valor");
 let contador = 0; 
